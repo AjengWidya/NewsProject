@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">News Project</string>
+    <string name="news_title">Judul</string>
+    <string name="news_img" />
+    <string name="news_date">Tanggal</string>
+    <string name="news_body">Isi</string>
+    <string name="button">Detail</string>
+    <string name="det_img"/>
+    <string name="det_title">Judul</string>
+    <string name="det_date">Tanggal</string>
+    <string name="det_body">Isi</string>
+</resources>
